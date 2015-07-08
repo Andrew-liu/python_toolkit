@@ -13,3 +13,12 @@
 - improve availability
 
 
+## ALLogger
+
+*ALLogger* is wrapper for built-in logging
+
+- more simple logging function
+- include debug, info, warning, exception, error, critical
+
+
+
